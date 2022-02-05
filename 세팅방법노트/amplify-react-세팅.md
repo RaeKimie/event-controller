@@ -50,3 +50,6 @@ export default App;
 
 ```
 6. `npm start` 앱에서 로그인과, 회원가입, 비번찾기 추가된걸 확인할 수 있음
+
+![alt text](https://github.com/RaeKimie/event-controller/blob/master/screenshots/login.jpg?raw=true)
+
